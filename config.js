@@ -1,43 +1,48 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://adoniasvitorio.dev',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'Blog by Adonias Vitorio',
+  subtitle: 'Fullstack Software Developer, Geek and Open Source enthusiast.',
+  copyright: 'by Adonias Vitorio',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Artigos',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'Projetos',
+      path: '/pages/projects'
+    },
+    {
+      label: 'Sobre',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'Contato',
       path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Adonias Vitorio',
+    photo: 'https://avatars.githubusercontent.com/u/46370687?v=4',
+    bio: 'Fullstack Software Developer, Geek and Open Source enthusiast.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'contato@adoniasvitorio.com.br',
+      dev: '#',
+      facebook: '',
+      telegram: '',
+      twitter: '',
+      github: 'adoniasvitorio',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'adoniasvitorio',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',

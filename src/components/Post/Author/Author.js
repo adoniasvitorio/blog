@@ -1,6 +1,6 @@
 // @flow strict
 import React from 'react';
-import { getContactHref } from '../../../utils';
+import Contacts from '../../Sidebar/Contacts';
 import styles from './Author.module.scss';
 import { useSiteMetadata } from '../../../hooks';
 
@@ -10,16 +10,16 @@ const Author = () => {
   return (
     <div className={styles['author']}>
       <p className={styles['author__bio']}>
-        {author.bio}
         <a
           className={styles['author__bio-twitter']}
-          href={getContactHref('twitter', author.contacts.twitter)}
+          href="/"
           rel="noopener noreferrer"
-          target="_blank"
         >
-          <strong>{author.name}</strong> on Twitter
+          <strong>{author.name}</strong>
         </a>
+        {author.bio}
       </p>
+      <Contacts contacts={author.contacts} />
     </div>
   );
 };

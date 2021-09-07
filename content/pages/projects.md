@@ -1,5 +1,5 @@
 ---
-title: "Sobre mim"
+title: "Projetos"
 template: "page"
 ---
 
