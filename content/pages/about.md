@@ -3,11 +3,8 @@ title: "Sobre mim"
 template: "page"
 ---
 
-Hey, sou Adonias Vitorio ! Apaixonado por musica e tecnologia, geek e entusiasta do mundo Open Source.
+Fullstack Developer na **[InnovareTI](https://www.innovareti.com.br)**, hoje sou responsável por desenvolver e dar manutenção em aplicações para os mais diversos segmentos como Fintechs, Bancos, Logistica, Startups, Redes de Saúde e outros.
 
-Atualmente imerso no aprendizado de NodeJS, ReactJS e React Natice, Javascript, Typescript, MySQL, PostgreSQL, Arquiteturas, Testes.
+Empenhado em construir soluções cada vez mais eficientes e escalaveis para Web. Meus principais temas de estudos tem sido **NodeJS**, **ReactJS**, **React Native**, **Javascript**, **Typescript**, **MySQL**, **PostgreSQL**, **Arquiteturas** e **Testes**. Alem destes também tenho dedicado um tempo especial para aprofundar conhecimentos no ecossistema **PHP**, em especial o **Framework Laravel**. 
 
-Aprendendo na prática sobre o ecossistema PHP e o desenvolvimento de aplicações baseadas em Laravel e VueJS. Trabalho construindo e dando manutenção em soluções Web para os mais diversos segmentos, sempre buscando entregar o máximo de valor e excelência a cada produto.
-
-Meus principais temas de interesse são:
-Tecnologia, Empreendedorismo, Comunicação, UX&UI, CI&CD, Softskills, Educação, Industria 4.0, Realidade Virtual, Criptomoedas, Economia, Open Source, Comunidades, Metodologias Ágeis.
+Quando não estou envolvido com Tecnologia, divido meus momentos livres entre passar um tempo com a família e aprender sobre outros temas que tenho interesses como Música, História, Economia e Ciências Políticas.
