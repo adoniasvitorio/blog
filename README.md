@@ -1,6 +1,29 @@
 ## About
 
 This project has been created to my personal blog and portfolio. 
+
+
+## New Post
+```
+---
+title: "Post title"
+date: "2021-02-02T22:40:32.169Z"
+template: "post"
+draft: false or true
+slug: "post-title"
+category: "New Post"
+tags:
+  - "post"
+  - "new"
+  - "more"
+  - "tags"
+description: "Post description here."
+socialImage: "/media/image-0.jpg"
+---
+
+Content of post here...
+```
+
 ## Quick Start
 
 #### Create a Gatsby site
