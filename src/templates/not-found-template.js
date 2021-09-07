@@ -13,6 +13,7 @@ const NotFoundTemplate = () => {
       <Sidebar />
       <Page title="Página não encontrada !">
         <p>Desculpe, esta página não pode ser encontrada.</p>
+        <p>Tente buscar por <a href="/tags">Tags</a> ou <a href="/categories">Categorias</a></p>
       </Page>
     </Layout>
   );
