@@ -18,7 +18,7 @@ tags:
   - "more"
   - "tags"
 description: "Post description here."
-socialImage: "/media/image-0.jpg"
+socialImage: "/media/photo.jpg"
 ---
 
 Content of post here...
