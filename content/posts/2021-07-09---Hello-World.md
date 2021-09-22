@@ -6,7 +6,7 @@ socialImage: /media/photo.jpg
 draft: false
 date: 2020-05-29T17:32:32.169Z
 description: Vazamento de Dados, ferramentas e cuidados que vão ajudar a se proteger melhor.
-category: Hello World
+category: segurança, senhas
 tags:
   - vazamento
   - dados
