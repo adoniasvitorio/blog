@@ -6,11 +6,13 @@ socialImage: /media/photo.jpg
 draft: false
 date: 2020-05-29T17:32:32.169Z
 description: Vazamento de Dados, ferramentas e cuidados que vão ajudar a se proteger melhor.
-category: segurança, senhas
+category: segurança
 tags:
   - vazamento
   - dados
   - vazamento-de-dados
+  - segurança
+  - senhas
 ---
 Neste texto espero abordar o tema **vazamento de dados**. As principais causas, como preveni-los, também maneiras de se manter informado sobre o assunto.
 
