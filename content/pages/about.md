@@ -7,4 +7,4 @@ Fullstack Developer na **[InnovareTI](https://www.innovareti.com.br)**, hoje sou
 
 Empenhado em construir soluções cada vez mais eficientes e escalaveis para Web. Meus principais temas de estudos tem sido **NodeJS**, **ReactJS**, **React Native**, **Javascript**, **Typescript**, **MySQL**, **PostgreSQL**, **Arquiteturas** e **Testes**. Alem destes também tenho dedicado um tempo especial para aprofundar conhecimentos no ecossistema **PHP**, em especial o **Framework Laravel**. 
 
-Quando não estou envolvido com Tecnologia, divido meus momentos livres entre passar um tempo com a família e aprender sobre outros temas que tenho interesses como Música, História, Economia e Ciências Políticas.
+Quando não estou envolvido com Tecnologia, divido meus momentos livres entre passar um tempo com a família e aprender sobre outros temas que tenho interesses como **Música**, **História**, **Economia** e **Ciências Políticas**.
